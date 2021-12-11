@@ -1,8 +1,15 @@
 # GUI-based-interactive-kinematics-toolkit-for-robotic-manipulators
-GUI-Based Interactive Kinematics Toolkit for Robotic Manipulators
-MAE 547
+# introduction 
+The main aim of this project is to create an interactive GUI which can be used create a 3D manipulator MATLAB. Operating this GUI does not require advance knowledge of mechanics or robotics.
+For instance the user will be given a choice to enter DH parameters directly ,if known, in the table or by randomizing parameters and witnessing a small 3D manipulator made by those parameters.
+The main objective of this project is simplify the process of solving various equations and mathematical models by using a user friendly GUI which performs all these calculations on the backend and depicts a manipulator based on those parameters in use. 
+#  Working schematic
+![image](https://user-images.githubusercontent.com/44742647/145686959-534d74e8-6c3e-48e6-bf78-d15802abb4ec.png)
 
-This "Read me" file help the user to run and utilize the toolbox in his system 
+# Contributor 
+Nikita Tushar Joshi
+
+# how to run 
 Requirements: computer or laptop and MATLAB 2019 and up 
 First, please make sure the path set to the MAE547 NJ SJ Project 2 folder location and the folder contains a total of 9 files 
 1.	Test_file.m
