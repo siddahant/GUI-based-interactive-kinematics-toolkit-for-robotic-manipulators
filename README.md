@@ -9,7 +9,7 @@ The main objective of this project is simplify the process of solving various eq
 # Contributor 
 Nikita Tushar Joshi
 
-# how to run 
+# How to run 
 Requirements: computer or laptop and MATLAB 2019 and up 
 First, please make sure the path set to the MAE547 NJ SJ Project 2 folder location and the folder contains a total of 9 files 
 1.	Test_file.m
